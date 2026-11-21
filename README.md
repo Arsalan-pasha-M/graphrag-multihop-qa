@@ -41,6 +41,7 @@ flowchart LR
 - **Generation:** both systems use the same prompt and return JSON with answer, reasoning path and citations.
 
 ![Neo4j graph](docs/neo4j_graph.png)
+![Two-hop traversal from the 8th MP Brigade](docs/neo4j_traversal.png)
 
 ## Results
 
