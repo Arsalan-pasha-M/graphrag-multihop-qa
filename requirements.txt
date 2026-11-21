@@ -1,0 +1,12 @@
+openai>=1.40
+neo4j>=5.20
+qdrant-client>=1.10
+sentence-transformers>=3.0
+python-dotenv>=1.0
+requests>=2.31
+tqdm>=4.66
+pandas>=2.0
+streamlit>=1.36
+pytest>=8.0
+tabulate>=0.9
+pyarrow<18
